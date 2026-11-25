@@ -33,6 +33,15 @@ class InvertedIndex:
         body_tokens = self.preprocessor.process(body)
         for token in body_tokens:
             self.index[token][doc_id]['body_tf'] += 1
+
+        # Record document token lengths for BM25 normalization
+        title_len = len(title_tokens)
+        body_len = len(body_tokens)
+        self.doc_lengths[doc_id] = {
+            'title_len': title_len,
+            'body_len': body_len,
+            'total_len': title_len + body_len
+        }
             
     def get_postings(self, term):
         """Returns postings for a specific term."""

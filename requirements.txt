@@ -1,2 +1,25 @@
-nltk==3.8.1
-matplotlib==3.8.2
+# Information Retrieval (CSD358) Final Project Dependencies
+# Explainable Hybrid Academic Search Engine
+
+# Core IR & NLP
+nltk>=3.8.1
+scikit-learn>=1.4.0
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Deep Learning & Semantic Embeddings
+torch>=2.2.0
+sentence-transformers>=2.5.0
+
+# Web Application & Interactive UI
+streamlit>=1.32.0
+
+# Evaluation, Tabulation & Visualization
+matplotlib>=3.8.0
+tabulate>=0.9.0
+
+# Document & Academic Report Generation
+reportlab>=4.1.0
+
+# Network & Corpus Fetching
+requests>=2.31.0
