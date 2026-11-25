@@ -149,7 +149,6 @@ IR/
 ├── EXPERIMENTS.md                              # Detailed experimental analysis & findings
 ├── PROJECT_AUDIT.md                            # Comprehensive system audit & roadmap
 ├── PROJECT_FEATURES.md                         # Detailed feature-by-feature specifications
-├── VIVA_QUESTIONS.md                           # 12 oral defense questions and answers
 ├── requirements.txt                            # Complete project dependencies
 └── README.md                                   # Project documentation
 ```
@@ -278,7 +277,6 @@ requests>=2.31.0
 - **Detailed Feature Specifications:** [`PROJECT_FEATURES.md`](file:///PROJECT_FEATURES.md)
 - **Experimental Analysis & Results:** [`EXPERIMENTS.md`](file:///EXPERIMENTS.md)
 - **Demonstration Walkthrough:** [`DEMO_GUIDE.md`](file:///DEMO_GUIDE.md)
-- **Viva Voce Oral Defense Prep:** [`VIVA_QUESTIONS.md`](file:///VIVA_QUESTIONS.md)
 - **Version Changelog:** [`CHANGELOG.md`](file:///CHANGELOG.md)
 - **AI-Use Disclosure:** [`AI_USE.md`](file:///AI_USE.md)
 
