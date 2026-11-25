@@ -8,7 +8,7 @@
 **Course:** CSD358: Information Retrieval (Final Semester Research Project)  
 **Author:** Hemanth Grandhi  
 **Roll No.:** 2310110121  
-**GitHub Repository:** [https://github.com/hemanth-grandhi/IR](https://github.com/hemanth-grandhi/IR)  
+**GitHub Repository:** [https://github.com/hemanth-grandhi/IR-PROJECT](https://github.com/hemanth-grandhi/IR-PROJECT)  
 
 ---
 
@@ -164,8 +164,8 @@ IR/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/hemanth-grandhi/IR.git
-cd IR
+git clone https://github.com/hemanth-grandhi/IR-PROJECT.git
+cd IR-PROJECT
 ```
 
 ### 2. Install Required Dependencies
